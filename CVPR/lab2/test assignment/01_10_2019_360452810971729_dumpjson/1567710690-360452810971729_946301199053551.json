@@ -1,0 +1,27 @@
+{
+    "message": "Also we have an Anterior Cervical Removal Case PT: had surgery in 1998. What the heck cervical plates were around at that time?",
+    "created_time": "2019-09-05T19:11:30+0000",
+    "id": "360452810971729_946301199053551",
+    "comments": {
+        "data": [
+            {
+                "message": "About 100 different ones. 😬",
+                "id": "946304852386519"
+            },
+            {
+                "message": "My guess would be Medtronic Orion, Synthes CSLP (first generation) or a first generation Depuy plate.",
+                "id": "946511695699168"
+            },
+            {
+                "message": "At least 15-20 different ones",
+                "id": "946526585697679"
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFEyTXpBME9EVXlNemcyTlRFNU9qRTFOamMzTVRFeE56az0ZD",
+                "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFEyTlRJMk5UZAzFOamszTmpjNU9qRTFOamMzTkRBeU1qUT0ZD"
+            }
+        }
+    }
+}

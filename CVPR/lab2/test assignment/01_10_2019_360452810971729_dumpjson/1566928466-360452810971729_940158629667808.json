@@ -1,0 +1,87 @@
+{
+    "message": "Any ideas? Especially the strange ring?",
+    "created_time": "2019-08-27T17:54:26+0000",
+    "id": "360452810971729_940158629667808",
+    "comments": {
+        "data": [
+            {
+                "message": "Solera. Not sure about that ring",
+                "comments": {
+                    "data": [
+                        {
+                            "message": "Aaron Jones not solera- the rod is wrong and set screw seems different ...\nAnd the ring may be part of pants???",
+                            "id": "940677059615965"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "before": "QVFIUmh0WnozRVRaeGwyQU9JMXYtaEUyUXA3NHVZARDlvYURmOE1IU3UtcGMyRmV5aFY0aUs5Tjlha0NEODZAYaWNXUFp0ci1pTE9LejRJcjhQZAWpGOHltSVFB",
+                            "after": "QVFIUmh0WnozRVRaeGwyQU9JMXYtaEUyUXA3NHVZARDlvYURmOE1IU3UtcGMyRmV5aFY0aUs5Tjlha0NEODZAYaWNXUFp0ci1pTE9LejRJcjhQZAWpGOHltSVFB"
+                        }
+                    }
+                },
+                "id": "940178136332524"
+            },
+            {
+                "message": "I’d question that rod being Solera.",
+                "id": "940182039665467"
+            },
+            {
+                "message": "5/1 looks like it was fused in situ and the hardware was removed at some point.  That’s probably a washer Incased in bone that was left behind.",
+                "comments": {
+                    "data": [
+                        {
+                            "message": "Justin Hininger nuva cortical w precept?",
+                            "id": "940243152992689"
+                        },
+                        {
+                            "message": "Charles Milligan not precept rod attachment.",
+                            "id": "940387629644908"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "before": "QVFIUkRjTm5KZA2NPN0tVTEo1eEdWOVBDREdNeS04REYyOFp4c1NBaXEtdWdOWVlTLUNSWmtlbDJpek5SUWJUSjJsSWs5c1hjU1Q2M0l1QjlCWGFwTTQwRm1n",
+                            "after": "QVFIUjZAxeV9OaTdjeE5CVzFXLXR4V0U3c0czd3cyX2htbXlZAU2l0NFZAKbzFhTEIyaFFSRUNhN1JobnRYajI0Q2hpWGwtTWdhWDZAvMXlpVl9KemJXdmtCdkJ3"
+                        }
+                    }
+                },
+                "id": "940226686327669"
+            },
+            {
+                "message": "I’d guess nuvasive Reline traction. Looks like Reline mad rod",
+                "id": "940307626319575"
+            },
+            {
+                "message": "A/P would be helpful, direction of screws would indicate Cortical trajectory probably 5.0 shanks, no matter the rod connection a T25 will remove",
+                "id": "940413186309019"
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFF3TVRjNE1UTTJNek15TlRJME9qRTFOalk1TXpBNU16WT0ZD",
+                "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFF3TkRFek1UZAzJNekE1TURFNU9qRTFOalk1TmpRMk1qUT0ZD"
+            }
+        }
+    },
+    "attachments": {
+        "data": [
+            {
+                "description": "Any ideas? Especially the strange ring?",
+                "media": {
+                    "image": {
+                        "height": 720,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/69299196_10219766362127344_4451937166573961216_o.jpg?_nc_cat=103&_nc_oc=AQmrzJDUjZJ0tvrS9zccUE6FlBenkdtTXaTEdzxQjU72F6hTeR75AWiK2OKjXr8WR7w&_nc_ht=scontent.xx&oh=123a77abe1c8f76bd1be0a9da04e463d&oe=5E23CC43",
+                        "width": 540
+                    }
+                },
+                "target": {
+                    "id": "10219766362047342",
+                    "url": "https://www.facebook.com/photo.php?fbid=10219766362047342&set=gm.940158629667808&type=3"
+                },
+                "type": "photo",
+                "url": "https://www.facebook.com/photo.php?fbid=10219766362047342&set=gm.940158629667808&type=3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "message": "Removal Wednesday if anyone has any ideas?  CC looks like NuVasive armada but the time frames are not adding up?  Time frames are from unreliable source!  Any help is appreciated!",
+    "created_time": "2019-09-10T01:43:49+0000",
+    "id": "360452810971729_949399308743740",
+    "comments": {
+        "data": [
+            {
+                "message": "Definitely looks like Armada to me",
+                "id": "949417338741937"
+            },
+            {
+                "message": "Based on a few things but not 💯 sure but I would venture to guess Nuva Armada, mostly because of the cross link",
+                "id": "949419672075037"
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFE1TkRFM016TTROelF4T1RNM09qRTFOamd3T0RJd05UQT0ZD",
+                "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFE1TkRFNU5qY3lNRGMxTURNM09qRTFOamd3T0RJeU9Eaz0ZD"
+            }
+        }
+    },
+    "attachments": {
+        "data": [
+            {
+                "subattachments": {
+                    "data": [
+                        {
+                            "media": {
+                                "image": {
+                                    "height": 720,
+                                    "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/70124278_10219087043997713_1413698600126382080_n.jpg?_nc_cat=110&_nc_oc=AQnRh_cbFsUzgWb7MjoUc_ErVMmLT_MC9zJPI_ncTFIXvG9RHvOGJrZnpVBBs6cQ_RY&_nc_ht=scontent.xx&oh=22a1129b5cd3fbcd2be402ee92a89dcb&oe=5DF50AD8",
+                                    "width": 332
+                                }
+                            },
+                            "target": {
+                                "id": "10219087043957712",
+                                "url": "https://www.facebook.com/photo.php?fbid=10219087043957712&set=gm.949399308743740&type=3"
+                            },
+                            "type": "photo",
+                            "url": "https://www.facebook.com/photo.php?fbid=10219087043957712&set=gm.949399308743740&type=3"
+                        },
+                        {
+                            "media": {
+                                "image": {
+                                    "height": 720,
+                                    "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/70387434_10219087044117716_4231261124135223296_n.jpg?_nc_cat=102&_nc_oc=AQm36AwydVt_poRu42nURLc0SS8lwnf_aZanhHf7edwbpuEkpt8G4lODB88bvAfTwjI&_nc_ht=scontent.xx&oh=35457edcc9cfcad7a66b6b791ecf64d5&oe=5E33F1C1",
+                                    "width": 332
+                                }
+                            },
+                            "target": {
+                                "id": "10219087044077715",
+                                "url": "https://www.facebook.com/photo.php?fbid=10219087044077715&set=gm.949399308743740&type=3"
+                            },
+                            "type": "photo",
+                            "url": "https://www.facebook.com/photo.php?fbid=10219087044077715&set=gm.949399308743740&type=3"
+                        }
+                    ]
+                },
+                "target": {
+                    "id": "949399308743740",
+                    "url": "https://www.facebook.com/media/set/?set=pcb.949399308743740&type=1"
+                },
+                "title": "Photos from Joe Wehr's post",
+                "type": "album",
+                "url": "https://www.facebook.com/media/set/?set=pcb.949399308743740&type=1"
+            }
+        ]
+    }
+}

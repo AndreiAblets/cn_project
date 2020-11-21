@@ -1,0 +1,31 @@
+{
+    "message": "Anyone know of a posterior cervical stainless option?",
+    "created_time": "2019-09-20T17:43:15+0000",
+    "id": "360452810971729_957175637966107",
+    "comments": {
+        "data": [
+            {
+                "message": "Go old school and just use Luque wires!",
+                "id": "957182504632087"
+            },
+            {
+                "message": "http://aegisspine.com/wp-content/uploads/2015/09/Posterior-Cervical-Screw-System.pdf\n\nThis looks like it comes in SS",
+                "id": "957184304631907"
+            },
+            {
+                "message": "Globus used to carry one .  Not sure if they still\nDo or not",
+                "id": "957191427964528"
+            },
+            {
+                "message": "Thanks everyone, in the process of determining if the patient truly is allergic to Titanium and Nickel... Appreciate the help",
+                "id": "957315637952107"
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFUzTVRneU5UQTBOak15TURnM09qRTFOamt3TURJd09EST0ZD",
+                "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZAPVFUzTXpFMU5qTTNPVFV5TVRBM09qRTFOamt3TVRneU56ST0ZD"
+            }
+        }
+    }
+}
